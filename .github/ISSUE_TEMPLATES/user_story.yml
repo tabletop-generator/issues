@@ -1,0 +1,44 @@
+name: User story
+description: A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer.
+title: "[User Story]: As a [persona], I [want to], [so that]."
+labels: ["user story"]
+projects: ["tabletop-generator/1"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        See https://github.com/e-yasser/course_demo/issues/2
+      value: |
+        **Description**
+
+        <!-- Describe the implementation -->
+
+        **Acceptance Criteria**
+
+        <!-- Write a list of criteria to be met before the user story is considered complete -->
+
+        - [ ] Criteria 1
+        - [ ] Criteria 2
+        - [ ] Criteria 3
+
+
+        **Testing Criteria**
+
+        <!-- Write a list of test cases that must be implemented to ensure the user story works as expected -->
+
+        - [ ] Test Case 1
+        - [ ] Test Case 2
+        - [ ] Test Case 3
+
+
+        **Child issues**
+
+        <!-- Link any child issues -->
+
+        - [ ] Child Issue 1
+        - [ ] Child Issue 2
+        - [ ] Child Issue 3
+    validations:
+      required: true
