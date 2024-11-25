@@ -11,8 +11,6 @@ body:
       description: |
         See https://github.com/e-yasser/course_demo/issues/2
       value: |
-        **Description**
-
         <!-- Describe the implementation -->
 
         **Acceptance Criteria**
