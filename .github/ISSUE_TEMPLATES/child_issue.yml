@@ -1,0 +1,29 @@
+name: Child issue
+description: A child issue is a single task within a larger user story.
+title: "[Child Issue]: [Implement/Fix/Improve] something"
+labels: ["child issue"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      value: |
+        **Description**
+
+        <!-- Describe the implementation -->
+
+        **Acceptance Criteria**
+
+        <!-- Write a list of criteria to be met before the child issue is considered complete -->
+
+        - [ ] Criteria 1
+        - [ ] Criteria 2
+        - [ ] Criteria 3
+
+        **Testing Criteria**
+
+        <!-- Write a list of test cases that must be implemented to ensure the implementation works as expected -->
+
+        - [ ] Test Case 1
+        - [ ] Test Case 2
+        - [ ] Test Case 3
