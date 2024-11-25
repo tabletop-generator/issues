@@ -1,4 +1,4 @@
-name: Child issue
+name: Child Issue
 description: A child issue is a single task within a larger user story.
 title: "[Child Issue]: [Implement/Fix/Improve] something"
 labels: ["child issue"]
