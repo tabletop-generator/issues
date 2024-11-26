@@ -29,14 +29,5 @@ body:
         - [ ] Test Case 1
         - [ ] Test Case 2
         - [ ] Test Case 3
-
-
-        **Child Issues**
-
-        <!-- Link any child issues -->
-
-        - [ ] Child Issue 1
-        - [ ] Child Issue 2
-        - [ ] Child Issue 3
     validations:
       required: true
