@@ -1,7 +1,7 @@
 name: User Story
 description: A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer.
 title: "[User Story]: As a [persona], I [want to], [so that]."
-type: "epic"
+type: 'epic'
 projects: ["tabletop-generator/1"]
 body:
   - type: textarea
